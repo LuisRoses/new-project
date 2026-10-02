@@ -21,13 +21,13 @@
 
 .sp {
   background: linear-gradient(
-      90deg,
-      #866ee7,
-      #ea60da,
-      #ed8f57,
-      #fbd41d,
-      #2cca91
-    );
+    90deg,
+    #0b3d2e,
+    #14614a,
+    #1f8a5f,
+    #34b27b,
+    #7be0a8
+  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
